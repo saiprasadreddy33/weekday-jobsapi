@@ -1,14 +1,5 @@
 # Jobs Listing using Weekday API
 
-**This project is a candidate application platform that allows users to view job listings, filter jobs based on various criteria, and implement infinite scroll for a seamless browsing experience. The platform provides a user-friendly interface for viewing and applying to jobs.**
-
-
-
-
-
-
-# Jobs Listing using Weekday API
-
 **This application is a candidate application platform that allows users to view job listings, filter jobs based on various criteria, and implement infinite scroll for a seamless browsing experience. The platform provides a user-friendly interface for viewing and applying to jobs.**
 
 ## API Reference
