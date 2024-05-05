@@ -1,0 +1,1 @@
+{"version":3,"sources":["jobs.js"],"names":["ITEMS_PER_PAGE"],"mappings":";;;;;;;AAAA;AAEO,IAAMA,cAAc,GAAG,EAAvB","sourcesContent":["/* eslint-disable import/prefer-default-export */\n\nexport const ITEMS_PER_PAGE = 30;\n"],"file":"jobs.dev.js"}
