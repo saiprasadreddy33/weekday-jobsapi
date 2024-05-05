@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { useSelector } from 'react-redux';
 import JobList from '../JobList';
 import JobTabs from '../JobTabs';
