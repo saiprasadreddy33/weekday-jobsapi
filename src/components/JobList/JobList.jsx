@@ -20,7 +20,6 @@ function JobList() {
 
   useEffect(() => {
     if (maxPagesLoaded === -1) {
-      // If no pages are loaded, load the first page
       fetchMoreJobs();
     }
   }, [fetchMoreJobs, maxPagesLoaded]);
